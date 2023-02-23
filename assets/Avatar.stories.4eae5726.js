@@ -1,0 +1,2 @@
+import{A as t}from"./index.6ed0d347.js";import"./index.0d3f94c4.js";import"./iframe.c262ed93.js";import"./index.c61c1698.js";import"./jsx-runtime.785b9473.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/MarcosMDev.png",alt:"Marcos Magno"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,e as WithFallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.4eae5726.js.map
